@@ -1,0 +1,12 @@
+{
+  "companyId": 839181,
+  "commands": ["reviews", "salaries", "jobs"],
+  "maxItems": 50,
+  "outputDir": "data",
+  "baseUrl": "https://www.glassdoor.com",
+  "session": {
+    "maxConcurrency": 2,
+    "minConcurrency": 1,
+    "maxRequestRetries": 3
+  }
+}
