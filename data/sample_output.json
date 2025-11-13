@@ -1,0 +1,192 @@
+[
+  {
+    "recordType": "review",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move",
+      "squareLogoUrl": "https://media.glassdoor.com/sql/839181/kids-on-the-move-squarelogo-1499250691084.png"
+    },
+    "reviewId": 93656313,
+    "reviewDateTime": "2024-12-13T15:00:29.823",
+    "summary": "Great culture very rewarding",
+    "pros": "Most employees are here because they love what they do. The culture is amazing and leadership is dedicated.",
+    "cons": "Not a ton of downsides.",
+    "employmentStatus": "REGULAR",
+    "isCurrentJob": true,
+    "jobTitle": {
+      "text": "VP of Grant Strategy and Operations"
+    },
+    "location": {
+      "name": "Orem, UT",
+      "type": "CITY"
+    },
+    "languageId": "eng",
+    "ratingOverall": 5,
+    "ratingWorkLifeBalance": 5,
+    "ratingCompensationAndBenefits": 5,
+    "ratingCultureAndValues": 5,
+    "ratingDiversityAndInclusion": 5,
+    "ratingCareerOpportunities": 5,
+    "ratingSeniorLeadership": 5,
+    "ratingRecommendToFriend": "POSITIVE",
+    "companyReviewStats": {
+      "ratings": {
+        "overallRating": 3.9,
+        "recommendToFriendRating": 0.82,
+        "cultureAndValuesRating": 4.3,
+        "diversityAndInclusionRating": 4.2
+      },
+      "allReviewsCount": 47
+    }
+  },
+  {
+    "recordType": "salary",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move"
+    },
+    "salary": {
+      "jobTitle": {
+        "text": "Software Engineer"
+      },
+      "currency": {
+        "code": "USD"
+      },
+      "salaryCount": 37
+    },
+    "basePayStatistics": {
+      "percentiles": {
+        "p10": 80000,
+        "p25": 90000,
+        "p50": 110000,
+        "p75": 130000,
+        "p90": 150000
+      }
+    },
+    "totalPayStatistics": {
+      "percentiles": {
+        "p10": 90000,
+        "p25": 105000,
+        "p50": 125000,
+        "p75": 150000,
+        "p90": 180000
+      }
+    }
+  },
+  {
+    "recordType": "job",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move"
+    },
+    "job": {
+      "jobTitleText": "Data Analyst",
+      "locationName": "Salt Lake City, UT",
+      "payCurrency": "USD",
+      "payPeriod": "YEARLY",
+      "payPeriodAdjustedPay": {
+        "p10": 60000,
+        "p90": 95000
+      },
+      "seoJobLink": "https://www.glassdoor.com/job-listing/data-analyst-kids-on-the-move-JV.htm"
+    }
+  },
+  {
+    "recordType": "interview",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move"
+    },
+    "interview": {
+      "id": 123456,
+      "experience": "POSITIVE",
+      "difficulty": "AVERAGE",
+      "processDescription": "Two rounds of interviews with behavioral and technical questions.",
+      "location": {
+        "name": "Orem, UT"
+      },
+      "userQuestions": [
+        {
+          "question": "Describe a time you worked in a cross-functional team."
+        },
+        {
+          "question": "How do you prioritize tasks with conflicting deadlines?"
+        }
+      ]
+    },
+    "companyInterviewStats": {
+      "totalInterviewCount": 12,
+      "interviewExperienceCounts": {
+        "POSITIVE": 8,
+        "NEUTRAL": 3,
+        "NEGATIVE": 1
+      }
+    }
+  },
+  {
+    "recordType": "location",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move"
+    },
+    "officeLocation": {
+      "id": 1,
+      "cityName": "Orem",
+      "countryName": "United States",
+      "latitude": 40.2969,
+      "longitude": -111.6946
+    }
+  },
+  {
+    "recordType": "benefit",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move"
+    },
+    "benefits": {
+      "rating": 4.5,
+      "userEnteredJobTitle": "Software Engineer",
+      "city": {
+        "name": "Orem"
+      },
+      "state": {
+        "name": "Utah"
+      }
+    },
+    "benefitComments": [
+      {
+        "comment": "Great health insurance and generous PTO."
+      },
+      {
+        "comment": "401k match could be better."
+      }
+    ],
+    "companyBenefitStats": {
+      "overallBenefitRating": 4.2,
+      "totalBenefitReviews": 21
+    },
+    "benefitsCategoryToStatisticAggregates": {
+      "Health Insurance": {
+        "rating": 4.6
+      },
+      "Retirement": {
+        "rating": 3.8
+      }
+    }
+  },
+  {
+    "recordType": "culture",
+    "employer": {
+      "id": 839181,
+      "shortName": "Kids on the Move"
+    },
+    "cultureDemographic": {
+      "category": "gender",
+      "categoryValue": "woman",
+      "ratings": {
+        "overallRating": 4.1,
+        "recommendToFriendRating": 0.85
+      }
+    }
+  }
+]
